@@ -1,0 +1,16 @@
+{
+    "name": "Project.Lib.Collision",
+    "rootNamespace": "",
+    "references": [
+        "Project.Lib.Common"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
